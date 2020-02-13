@@ -204,9 +204,6 @@ header{
     flex-direction: row;
   }
   .pricing{
-
-    display: flex;
-    justify-content: center;
     flex-wrap: nowrap;
   }
 
